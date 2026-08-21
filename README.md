@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3068D3&height=200&section=header&text=Shivani%20Gujjar&fontSize=60&animation=twinkling&fontColor=ffffff&desc=MERN%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3068D3&height=220&section=header&text=Shivani%20Gujjar&fontSize=48&animation=twinkling&fontColor=ffffff&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=3068D3&center=true&vCenter=true&width=650&lines=Building+real-time%2C+AI-integrated+web+apps;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Shipping+production-grade+MERN+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=3068D3&center=true&vCenter=true&width=750&height=30&lines=MERN+Stack+Developer;Building+real-time%2C+AI-integrated+web+apps;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Shipping+production-grade+MERN+products" alt="Typing SVG" />
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-3068D3?style=for-the-badge&logo=github&logoColor=white)
 
@@ -43,7 +43,9 @@ const shivaniGujjar = {
 
 ### TaskSync — Kanban Task Management Platform
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaniGujjar&repo=tasksync&theme=nord&title_color=3068D3&icon_color=3068D3&border_color=3068D3" alt="TaskSync pin"/>
+<img src="./assets/tasksync-preview.png" alt="TaskSync preview" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaniGujjar&repo=tasksync&theme=nord&cache_seconds=1800&title_color=3068D3&icon_color=3068D3&border_color=3068D3" alt="TaskSync pin"/>
 
 Full-stack Kanban board with drag-and-drop, JWT-secured routes, and Redux Toolkit-managed state.
 
@@ -60,7 +62,9 @@ Full-stack Kanban board with drag-and-drop, JWT-secured routes, and Redux Toolki
 
 ### Beam — Frontend Deployment Platform
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaniGujjar&repo=beam&theme=nord&title_color=3068D3&icon_color=3068D3&border_color=3068D3" alt="Beam pin"/>
+<img src="./assets/beam-preview.png" alt="Beam preview" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaniGujjar&repo=beam&theme=nord&cache_seconds=1800&title_color=3068D3&icon_color=3068D3&border_color=3068D3" alt="Beam pin"/>
 
 Mini frontend-hosting platform with live build logs, deployment-status updates, and reverse-proxy routing.
 
@@ -77,7 +81,9 @@ Mini frontend-hosting platform with live build logs, deployment-status updates, 
 
 ### Unravel — AI-Powered Knowledge & Code Assistant
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaniGujjar&repo=unravel&theme=nord&title_color=3068D3&icon_color=3068D3&border_color=3068D3" alt="Unravel pin"/>
+<img src="./assets/unravel-preview.png" alt="Unravel preview" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaniGujjar&repo=unravel&theme=nord&cache_seconds=1800&title_color=3068D3&icon_color=3068D3&border_color=3068D3" alt="Unravel pin"/>
 
 AI assistant for technical Q&A and code prompts, with streaming responses and an animated UI.
 
@@ -93,7 +99,9 @@ AI assistant for technical Q&A and code prompts, with streaming responses and an
 
 ### CreatorFlow — AI Content & Scripting Workspace
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaniGujjar&repo=creatorflow&theme=nord&title_color=3068D3&icon_color=3068D3&border_color=3068D3" alt="CreatorFlow pin"/>
+<img src="./assets/creatorflow-preview.png" alt="CreatorFlow preview" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaniGujjar&repo=creatorflow&theme=nord&cache_seconds=1800&title_color=3068D3&icon_color=3068D3&border_color=3068D3" alt="CreatorFlow pin"/>
 
 AI-assisted workspace for generating content plans and scripts across LangChain-based workflows.
 
@@ -145,10 +153,10 @@ AI-assisted workspace for generating content plans and scripts across LangChain-
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShivaniGujjar&show_icons=true&theme=nord&title_color=3068D3&icon_color=3068D3&text_color=ffffff&border_color=3068D3&count_private=true" alt="Shivani's GitHub stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaniGujjar&layout=compact&theme=nord&title_color=3068D3&text_color=ffffff&border_color=3068D3" alt="Top Languages" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShivaniGujjar&show_icons=true&theme=nord&title_color=3068D3&icon_color=3068D3&text_color=ffffff&border_color=3068D3&count_private=true&cache_seconds=1800" alt="Shivani's GitHub stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaniGujjar&layout=compact&theme=nord&title_color=3068D3&text_color=ffffff&border_color=3068D3&cache_seconds=1800" alt="Top Languages" width="49%"/>
 
-<img src="https://streak-stats.demolab.com/?user=ShivaniGujjar&theme=nord&hide_border=true&ring=3068D3&fire=3068D3&currStreakLabel=3068D3" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=ShivaniGujjar&theme=nord&hide_border=true&ring=3068D3&fire=3068D3&currStreakLabel=3068D3&cache_seconds=1800" alt="GitHub Streak"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=ShivaniGujjar&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
 
