@@ -13,29 +13,13 @@
 
 <br/>
 
-## 👩‍💻 Who I Am
+## 👩‍💻 A Little About Me
 
-```typescript
-const shivaniGujjar = {
-  title: "MERN Stack Developer",
-  stack: {
-    languages: ["JavaScript (ES6+)", "HTML5", "CSS3"],
-    frontend: ["React.js", "React Router", "Redux Toolkit", "Tailwind CSS", "Bootstrap", "GSAP", "Framer Motion"],
-    backend: ["Node.js", "Express.js", "REST APIs", "Socket.IO", "JWT Authentication"],
-    database: ["MongoDB", "Mongoose", "Supabase", "Redis"],
-    ai: ["Google Gemini", "Mistral AI", "LangChain", "Google AI Studio"],
-    tools: ["Git", "GitHub", "Postman", "Vite", "Vercel", "Netlify", "Render", "Cloudinary"],
-  },
-  launchedProjects: ["TaskSync", "Beam", "Unravel", "CreatorFlow"],
-  certifications: [
-    "AI-Powered Cohort 2.0 — Sheryians Coding School (Sep 2025 – Jul 2026)",
-    "MERN Stack Development — Ducat, Noida (Aug 2024 – Feb 2025)",
-    "Frontend Web Development Internship — IBM SkillsBuild (2023)",
-  ],
-  status: "Pursuing MCA @ Lovely Professional University (2024 – 2026)",
-  openTo: "Frontend / MERN Stack Developer roles",
-};
-```
+Hey, I'm Shivani — a MERN Stack Developer currently pursuing my MCA at Lovely Professional University. I like owning a feature end-to-end: schema design, REST APIs, state management, and finishing with a clean, animated UI. Lately I've been building AI-integrated products with Gemini, Mistral, and LangChain, plus real-time systems powered by Socket.IO.
+
+🎓 **Certifications:** AI-Powered Cohort 2.0 (Sheryians) · MERN Stack Development (Ducat) · Frontend Dev Internship (IBM SkillsBuild)
+
+📌 **Currently open to:** Frontend / MERN Stack Developer roles
 
 <br/>
 
@@ -43,9 +27,10 @@ const shivaniGujjar = {
 
 ### TaskSync — Kanban Task Management Platform
 
-<img src="./assets/tasksync-preview.png" alt="TaskSync preview" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaniGujjar&repo=tasksync&theme=nord&cache_seconds=1800&title_color=3068D3&icon_color=3068D3&border_color=3068D3" alt="TaskSync pin"/>
+<table>
+<tr>
+<td width="45%"><img src="./assets/tasksync-preview.png" alt="TaskSync preview" width="100%"/></td>
+<td width="55%">
 
 Full-stack Kanban board with drag-and-drop, JWT-secured routes, and Redux Toolkit-managed state.
 
@@ -58,13 +43,18 @@ Full-stack Kanban board with drag-and-drop, JWT-secured routes, and Redux Toolki
 
 [🔗 Live](https://tasksync-delta.vercel.app/) · [💻 Code](https://github.com/ShivaniGujjar/tasksync)
 
+</td>
+</tr>
+</table>
+
 <br/>
 
 ### Beam — Frontend Deployment Platform
 
-<img src="./assets/beam-preview.png" alt="Beam preview" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaniGujjar&repo=beam&theme=nord&cache_seconds=1800&title_color=3068D3&icon_color=3068D3&border_color=3068D3" alt="Beam pin"/>
+<table>
+<tr>
+<td width="45%"><img src="./assets/beam-preview.png" alt="Beam preview" width="100%"/></td>
+<td width="55%">
 
 Mini frontend-hosting platform with live build logs, deployment-status updates, and reverse-proxy routing.
 
@@ -77,13 +67,18 @@ Mini frontend-hosting platform with live build logs, deployment-status updates, 
 
 [🔗 Live](https://beam-sable.vercel.app/) · [💻 Code](https://github.com/ShivaniGujjar/beam)
 
+</td>
+</tr>
+</table>
+
 <br/>
 
 ### Unravel — AI-Powered Knowledge & Code Assistant
 
-<img src="./assets/unravel-preview.png" alt="Unravel preview" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaniGujjar&repo=unravel&theme=nord&cache_seconds=1800&title_color=3068D3&icon_color=3068D3&border_color=3068D3" alt="Unravel pin"/>
+<table>
+<tr>
+<td width="45%"><img src="./assets/unravel-preview.png" alt="Unravel preview" width="100%"/></td>
+<td width="55%">
 
 AI assistant for technical Q&A and code prompts, with streaming responses and an animated UI.
 
@@ -95,13 +90,18 @@ AI assistant for technical Q&A and code prompts, with streaming responses and an
 
 [🔗 Live](https://unravel-liart.vercel.app/) · [💻 Code](https://github.com/ShivaniGujjar/unravel)
 
+</td>
+</tr>
+</table>
+
 <br/>
 
 ### CreatorFlow — AI Content & Scripting Workspace
 
-<img src="./assets/creatorflow-preview.png" alt="CreatorFlow preview" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaniGujjar&repo=creatorflow&theme=nord&cache_seconds=1800&title_color=3068D3&icon_color=3068D3&border_color=3068D3" alt="CreatorFlow pin"/>
+<table>
+<tr>
+<td width="45%"><img src="./assets/creatorflow-preview.png" alt="CreatorFlow preview" width="100%"/></td>
+<td width="55%">
 
 AI-assisted workspace for generating content plans and scripts across LangChain-based workflows.
 
@@ -114,6 +114,10 @@ AI-assisted workspace for generating content plans and scripts across LangChain-
 | Realtime | Socket.IO |
 
 [🔗 Live](https://creatorflow-black.vercel.app/) · [💻 Code](https://github.com/ShivaniGujjar/creatorflow)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -154,11 +158,10 @@ AI-assisted workspace for generating content plans and scripts across LangChain-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShivaniGujjar&show_icons=true&theme=nord&title_color=3068D3&icon_color=3068D3&text_color=ffffff&border_color=3068D3&count_private=true&cache_seconds=1800" alt="Shivani's GitHub stats" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=ShivaniGujjar&theme=nord&hide_border=true&ring=3068D3&fire=3068D3&currStreakLabel=3068D3&cache_seconds=1800" alt="GitHub Streak" width="49%"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaniGujjar&layout=compact&theme=nord&title_color=3068D3&text_color=ffffff&border_color=3068D3&cache_seconds=1800" alt="Top Languages" width="49%"/>
-
-<img src="https://streak-stats.demolab.com/?user=ShivaniGujjar&theme=nord&hide_border=true&ring=3068D3&fire=3068D3&currStreakLabel=3068D3&cache_seconds=1800" alt="GitHub Streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShivaniGujjar&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ShivaniGujjar&theme=nord&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="Trophies" width="49%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivaniGujjar&theme=nord&hide_border=true&line=3068D3&color=ffffff&point=3068D3" alt="Activity Graph" width="95%"/>
 
