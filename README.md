@@ -2,7 +2,7 @@
 
 # Shivani Gujjar
 
-**MERN Stack Developer · React.js / Node.js / MongoDB · AI-Integrated Web Apps · MCA @ LPU**
+**MERN Stack Developer · React.js | Node.js | MongoDB · AI-Integrated Web Apps · MCA @ LPU**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-3068D3?style=flat-square&logo=vercel&logoColor=white)](https://shivani-gujjar.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-3068D3?style=flat-square&logo=github&logoColor=white)](https://github.com/ShivaniGujjar)
