@@ -69,14 +69,16 @@ Hey, I'm Shivani — a MERN Stack Developer currently pursuing my MCA at Lovely 
 
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages&hideTitle=true&align=left&lineCount=1&theme=0l1v3rr&hideBg=true&showBorder=false&borderRadius=16&line1=javascript,JavaScript,auto;html5,HTML5,auto;css3,CSS3,auto;&width=400" alt="Languages"/>
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&hideTitle=true&align=left&lineCount=2&theme=0l1v3rr&hideBg=true&showBorder=false&borderRadius=16&line1=react,React,auto;reactrouter,React Router,auto;redux,Redux Toolkit,auto;tailwindcss,Tailwind CSS,auto;&line2=bootstrap,Bootstrap,auto;gsap,GSAP,auto;framer,Framer Motion,auto;&width=650" alt="Frontend"/>
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&hideTitle=true&align=left&lineCount=1&theme=0l1v3rr&hideBg=true&showBorder=false&borderRadius=16&line1=react,React,auto;redux,Redux,auto;tailwindcss,Tailwind,auto;bootstrap,Bootstrap,auto;&width=550" alt="Frontend"/>
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&hideTitle=true&align=left&lineCount=1&theme=0l1v3rr&hideBg=true&showBorder=false&borderRadius=16&line1=nodedotjs,Node.js,auto;express,Express.js,auto;socketdotio,Socket.IO,auto;&width=450" alt="Backend / Infra"/>
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Animation&hideTitle=true&align=left&lineCount=1&theme=0l1v3rr&hideBg=true&showBorder=false&borderRadius=16&line1=gsap,GSAP,auto;framer,Framer,auto;&width=300" alt="Animation"/>
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&hideTitle=true&align=left&lineCount=1&theme=0l1v3rr&hideBg=true&showBorder=false&borderRadius=16&line1=nodedotjs,Node.js,auto;express,Express,auto;socketdotio,Socket.IO,auto;&width=450" alt="Backend / Infra"/>
 
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Cloud&hideTitle=true&align=left&lineCount=1&theme=0l1v3rr&hideBg=true&showBorder=false&borderRadius=16&line1=vercel,Vercel,auto;netlify,Netlify,auto;&width=300" alt="Cloud"/>
 
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=AI+and+Database&hideTitle=true&align=left&lineCount=1&theme=0l1v3rr&hideBg=true&showBorder=false&borderRadius=16&line1=mongodb,MongoDB,auto;redis,Redis,auto;supabase,Supabase,auto;&width=400" alt="AI and Database"/>
-<br/>
+
 ![Gemini](https://img.shields.io/badge/Google_Gemini-3068D3?style=flat-square&logo=googlegemini&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral_AI-3068D3?style=flat-square&logo=mistralai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-3068D3?style=flat-square&logo=langchain&logoColor=white)
